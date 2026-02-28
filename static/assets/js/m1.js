@@ -97,6 +97,14 @@ document.addEventListener("DOMContentLoaded", () => {
       name: "Savvas Realize",
       icon: "/assets/media/favicon/savvas-realize.png",
     },
+    Hypackel: {
+      name: "Hypackel",
+      icon: "/assets/media/favicon/hypackel.png",
+    },
+    Quiz30: {
+      name: "Quiz 30",
+      icon: "/assets/media/favicon/hypackel.png",
+    },
     SmartPass: {
       name: "SmartPass",
       icon: "/assets/media/favicon/smartpass.png",
